@@ -24,8 +24,6 @@ public class Class01 {
         System.out.println("Versiyon 4 için kodlar");
 
 
-        //Versiyon 5
 
-        System.out.println("Versiyon 5 için kodlar")
     }
 }

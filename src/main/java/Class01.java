@@ -23,6 +23,10 @@ public class Class01 {
 
         System.out.println("Versiyon 4 için kodlar");
 
+    //Versiyon 7
+
+        System.out.println("Versiyon 7 için kodlar");
+
 
 
     }
